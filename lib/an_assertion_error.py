@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
+# an_assertion_error.py
+assert(1 == 1)  # Or modify to a true condition
 
-assert(1 == 2)
